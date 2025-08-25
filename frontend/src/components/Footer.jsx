@@ -5,18 +5,18 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="banner">
-          <div className="left">DP</div>
+          <div className="left">MPK</div>
           <div className="right">
-            <p>Rajahmundry</p>
+            <p>Polavaram</p>
             <p>Open: 05:00 PM - 12:00 AM</p>
           </div>
         </div>
         <div className="banner">
           <div className="left">
-            <p>Developed By DP</p>
+            <p>Developed By MPK</p>
           </div>
           <div className="right">
-            <p>All Rights Reserved By DP.</p>
+            <p>All Rights Reserved By MPK.</p>
           </div>
         </div>
       </div>
